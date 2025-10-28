@@ -52,11 +52,6 @@ Construire des systèmes IA sécurisés, explicables et impactants qui favorisen
 
 ---
 
-##  Statistiques GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nassimadhiba&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nassimadhiba&theme=radical)
-
----
 
  
  
