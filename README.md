@@ -1,7 +1,7 @@
 # Salut , je suis Nassima DHIBA
 
 > 🎓 Master  EID² – Exploration Informatique des Données et Décisionnel (Sorbonne Paris Nord & FSDM Fès)
-> Master WISD – Web Intelligence et Science des Données (USMBA Fès)
+>    Master WISD – Web Intelligence et Science des Données (USMBA Fès)
 >  Passionnée par tout ce qui touche à l’IA : (Machine/Deep) Learning, NLP, Vision par Ordinateur, IA Générative, Data Science, Business Intelligence  
 
 ---
@@ -13,7 +13,7 @@ Je suis activement à la recherche d’un stage de fin d’études (PFE) afin de
 
 ---
 
-## M vision
+## Ma vision
 Construire des systèmes IA sécurisés, explicables et impactants qui favorisent l’innovation.  
 
 ---
@@ -58,5 +58,5 @@ Construire des systèmes IA sécurisés, explicables et impactants qui favorisen
  
 
 ##  Contact
-[LinkedIn]([[ton-lien](https://www.linkedin.com/in/nassima-dhiba)](https://www.linkedin.com/in/nassima-dhiba))   
+[  (https://www.linkedin.com/in/nassima-dhiba)] 
  
