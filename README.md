@@ -58,5 +58,5 @@ Construire des systèmes IA sécurisés, explicables et impactants qui favorisen
  
 
 ##  Contact
-[  (https://www.linkedin.com/in/nassima-dhiba)] 
+[  ([https://www.linkedin.com/in/nassima-dhiba](https://www.linkedin.com/in/nassimadhiba/))] 
  
